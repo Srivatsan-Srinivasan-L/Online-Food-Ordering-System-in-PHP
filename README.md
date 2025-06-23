@@ -48,11 +48,11 @@ cd  Online-Food-Ordering-System-in-PHP
 ![User Home](screenshots/user.png)
 
 ### 🔹 Add to Cart Page
-![Cart Page](screenshots/view myorder.png)
+![Cart Page](screenshots/view-myorder.png)
 
 ### 🔹 Order Details
-![User Order detail Page](screenshots/order details.png)
+![User Order detail Page](screenshots/order-details.png)
 
 ### 🔹 Admin Dashboard
-[Admin Dashboard](screenshots/Admin.png)
+![Admin Dashboard](screenshots/admin.png)
 
