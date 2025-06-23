@@ -54,5 +54,5 @@ cd  Online-Food-Ordering-System-in-PHP
 ![User Order detail Page](screenshots/order details.png)
 
 ### 🔹 Admin Dashboard
-![Admin Dashboard](screenshots/Admin.png)
+[Admin Dashboard](screenshots/Admin.png)
 
