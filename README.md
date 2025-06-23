@@ -41,3 +41,16 @@ This is a full-stack **Food Ordering System** developed using **PHP, MySQL, Boot
 ```bash
 git clone https://github.com/Srivatsan-Srinivasan-L/Online-Food-Ordering-System-in-PHP.git
 cd  Online-Food-Ordering-System-in-PHP
+
+---
+
+## 🛠️ Installation
+
+
+### 2️⃣ Setup with XAMPP / Local Server
+Install XAMPP First[GitHub Pages] (https://www.apachefriends.org/)
+Move the folder to C:\xampp\htdocs
+
+Start Apache and MySQL from XAMPP Control Panel
+
+Import the database:
