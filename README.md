@@ -59,7 +59,7 @@ cd  Online-Food-Ordering-System-in-PHP
 )
 
 ### 🔹 Admin Dashboard
-![Admin Dashboard](C:\xampp\htdocs\Food-Ordering-System\screenshots\user-login.png)
+![Admin Dashboard](https://github.com/Srivatsan-Srinivasan-L/Online-Food-Ordering-System-in-PHP/blob/11645c1350376c7f10ddaf18e3172058e0c7d7f3/screenshots/view-myorder.png)
 
 
 
