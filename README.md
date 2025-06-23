@@ -62,3 +62,7 @@ cd  Online-Food-Ordering-System-in-PHP
 
 
 
+
+![User Home](https://raw.githubusercontent.com/Srivatsan-Srinivasan-L/Online-Food-Ordering-System-in-PHP/main/screenshots/user.png)
+
+
