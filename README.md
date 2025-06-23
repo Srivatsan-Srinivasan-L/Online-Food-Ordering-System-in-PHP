@@ -1,6 +1,6 @@
 
-Online-Food-Ordering-System-in-PHP
+#Online-Food-Ordering-System-in-PHP
 
+##Screen Short Online food ordering system
 
-<h1>Screen Short Online food ordering system</h1>
-<img src="./admin/assets/images/products/s1.jpg">
+(https://github.com/Srivatsan-Srinivasan-L/Online-Food-Ordering-System-in-PHP/admin/assets/images/products/s1.jpg)
