@@ -42,6 +42,10 @@ This is a full-stack **Food Ordering System** developed using **PHP, MySQL, Boot
 git clone https://github.com/Srivatsan-Srinivasan-L/Online-Food-Ordering-System-in-PHP.git
 cd  Online-Food-Ordering-System-in-PHP
 
+
+
+---
+
 ## 📸 Screenshots
 
 ### 🔹 User Home Page
@@ -55,4 +59,6 @@ cd  Online-Food-Ordering-System-in-PHP
 
 ### 🔹 Admin Dashboard
 ![Admin Dashboard](screenshots/admin.png)
+
+
 
