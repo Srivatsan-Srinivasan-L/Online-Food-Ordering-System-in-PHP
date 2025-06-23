@@ -55,11 +55,11 @@ cd  Online-Food-Ordering-System-in-PHP
 ![Cart Page](/screenshots/view-myorder.png)
 
 ### 🔹 Order Details
-![User Order detail Page](/screenshots/order-details.png)
+![User Order detail Page](https://github.com/Srivatsan-Srinivasan-L/Online-Food-Ordering-System-in-PHP/blob/main/screenshots/view-myorder.png
+)
 
 ### 🔹 Admin Dashboard
-![Admin Dashboard](/screenshots/admin.png)
-
+![Admin Dashboard](C:\xampp\htdocs\Food-Ordering-System\screenshots\user-login.png)
 
 
 
