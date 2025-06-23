@@ -49,20 +49,19 @@ cd  Online-Food-Ordering-System-in-PHP
 ## 📸 Screenshots
 
 ### 🔹 User Home Page
-![User Home](screenshots/user.png)
+![User Home](/screenshots/user.png)
 
 ### 🔹 Add to Cart Page
-![Cart Page](screenshots/view-myorder.png)
+![Cart Page](/screenshots/view-myorder.png)
 
 ### 🔹 Order Details
-![User Order detail Page](screenshots/order-details.png)
+![User Order detail Page](/screenshots/order-details.png)
 
 ### 🔹 Admin Dashboard
-![Admin Dashboard](screenshots/admin.png)
+![Admin Dashboard](/screenshots/admin.png)
 
 
 
 
-![User Home](https://raw.githubusercontent.com/Srivatsan-Srinivasan-L/Online-Food-Ordering-System-in-PHP/main/screenshots/user.png)
 
 
