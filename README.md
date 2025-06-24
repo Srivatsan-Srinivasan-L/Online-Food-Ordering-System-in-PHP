@@ -52,7 +52,7 @@ cd  Online-Food-Ordering-System-in-PHP
 ![UserHome](screenshots/user.png)
 
 ### 🔹 Add to Cart Page
-![CartPage](screenshots/sreehotel.jpg)
+![CartPage](\screenshots\order-details.png)
 
 
 
