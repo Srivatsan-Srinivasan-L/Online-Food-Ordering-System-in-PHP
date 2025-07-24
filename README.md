@@ -49,7 +49,7 @@ cd  Online-Food-Ordering-System-in-PHP
 ## 📸 Screenshots
 
 ### 🔹 User Home Page
-![UserHome](/screenshots/admin.png.png)
+![UserHome](/screenshots/admin.png)
 
 ### 🔹 Add to Cart Page
 ![CartPage](/screenshots/order-details.png.png)
