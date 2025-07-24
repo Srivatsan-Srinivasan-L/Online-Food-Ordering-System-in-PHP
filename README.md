@@ -55,7 +55,7 @@ cd  Online-Food-Ordering-System-in-PHP
 ![CartPage](/screenshots/order-details.png)
 
 
-![Admin View](screenshots/Admin.png)
+![Admin View](screenshots/admin.png)
 
 
 
