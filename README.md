@@ -34,6 +34,25 @@ This is a full-stack **Food Ordering System** developed using **PHP, MySQL, Boot
 
 ---
 
+
+## 📸 Screenshots
+
+### 🔹 User Home Page
+![UserHome](screenshots/user.png)
+
+### 🔹 Add to Cart Page
+![CartPage](screenshots/order-details.png)
+
+### 🔹 Admin Dashboard
+![Admin View](screenshots/admin.png)
+
+### 🔹 Home View
+![Home View](screenshots/sreehotel.jpg)
+
+### 🔹 View Order Page
+![View Order](screenshots/view-myorder.png)
+
+
 ## 🛠️ Installation
 
 ### 1️⃣ Clone the Repository
@@ -44,24 +63,9 @@ cd  Online-Food-Ordering-System-in-PHP
 
 
 
----
-
-## 📸 Screenshots
-
-### 🔹 User Home Page
-![UserHome](/screenshots/admin.png)
-
-### 🔹 Add to Cart Page
-![CartPage](/screenshots/order-details.png.png)
 
 
-![Admin View](/screenshots/user.png.png)
 
-
-![Home View](/screenshots/sreehotel.jpg)
-
-
-![view View](/screenshots/view-myorder.png)
 
 
 
