@@ -38,10 +38,10 @@ This is a full-stack **Food Ordering System** developed using **PHP, MySQL, Boot
 ## 📸 Screenshots
 
 ### 🔹 User Home Page
-![UserHome](screenshots/user.png)
+![UserHome](screenshots/user.png.png)
 
 ### 🔹 Add to Cart Page
-![CartPage](screenshots/order-details.png)
+![CartPage](screenshots/order-details.png.png)
 
 ### 🔹 Admin Dashboard
 ![Admin View](screenshots/admin.png)
