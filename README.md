@@ -40,16 +40,13 @@ This is a full-stack **Food Ordering System** developed using **PHP, MySQL, Boot
 ### 🔹 User Home Page
 ![UserHome](screenshots/user.png.png)
 
-### 🔹 Add to Cart Page
+### 🔹 Placed The Order
 ![CartPage](screenshots/order-details.png.png)
 
 ### 🔹 Admin Dashboard
 ![Admin View](screenshots/admin.png)
 
-### 🔹 Home View
-![Home View](screenshots/sreehotel.jpg)
-
-### 🔹 View Order Page
+### 🔹 View Order In User Page
 ![View Order](screenshots/view-myorder.png)
 
 
